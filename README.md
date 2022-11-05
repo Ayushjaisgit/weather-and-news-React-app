@@ -1,6 +1,6 @@
 # Weather and News React App 
 
-Unfortunately This project can't be hosted because Openweather Api and News Api Dosen't let us to use their api on production app  
+Unfortunately This project can't be hosted because Openweather API and News API Dosen't Allows us to use their API on production Application it only allows us to use their API in Localhost only😅  
 
 ## So here's a quick demonstration gif of this project
 
