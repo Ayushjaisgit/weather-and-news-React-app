@@ -4,7 +4,7 @@ Unfortunately This project can't be hosted because Openweather Api and News Api 
 
 ## So here's a quick demonstration gif of this project
 
-![](https://github.com/Ayushjaisgit/weather-api-React-app/blob/main/ezgif-1-6d47dc2071.mp4)
+![](https://github.com/Ayushjaisgit/weather-api-React-app/blob/main/ezgif.com-gif-maker.gif)
 
 In the project directory, you can run:
 
