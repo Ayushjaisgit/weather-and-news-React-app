@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Weather and News React App 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Unfortunately This project can't be hosted because Openweather Api and News Api Dosen't let us to use their api on production app  
 
-## Available Scripts
+## So here's a quick demonstration gif of this project
+
+![](https://github.com/Ayushjaisgit/weather-api-React-app/blob/main/ezgif-1-6d47dc2071.mp4)
 
 In the project directory, you can run:
 
